@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+ce608406b29daac0e0597aa7cb5881d1 CMakeFiles/QUdpSocket_autogen

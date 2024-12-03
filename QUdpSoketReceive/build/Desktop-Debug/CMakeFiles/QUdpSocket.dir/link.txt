@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/QUdpSocket.dir/QUdpSocket_autogen/mocs_compilation.cpp.o CMakeFiles/QUdpSocket.dir/main.cpp.o CMakeFiles/QUdpSocket.dir/myudp.cpp.o -o QUdpSocket  /usr/lib/x86_64-linux-gnu/libQt5Network.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

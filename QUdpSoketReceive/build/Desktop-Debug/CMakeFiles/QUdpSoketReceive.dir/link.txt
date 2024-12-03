@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/QUdpSoketReceive.dir/main.cpp.o CMakeFiles/QUdpSoketReceive.dir/myudp.cpp.o -o QUdpSoketReceive 
